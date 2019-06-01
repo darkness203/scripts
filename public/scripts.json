@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Gold generator",
+        "description": "Generates gold and ressources for you.",
+        "price": "0.00233",
+        "id": "goldgenerator"
+    }, {
+        "name": "Tower freeze",
+        "description": "Makes enemy's towers not to shoot you.",
+        "price": "0.00233",
+        "id": "towerfreeze"
+    },
+    {
+        "name": "Auto base builder & saver",
+        "description": "Makes you be able to record bases, and to be able to build them later.",
+        "price": "0.00175",
+        "id": "autobasebuilder"
+    },
+    {
+        "name": "Server scanner",
+        "description": "Scans all servers on zombs.io, and returns people that matched options of score, wave, and name.",
+        "price": "0.00175",
+        "id": "serverscanner"
+    },
+    {
+        "name": "Auto raid",
+        "description": "Builds a random base, auto respawns you, enables speed, and buys spear. Perfect for raiding.",
+        "price": "0.00175",
+        "id": "autoraid"
+    },
+    {
+        "name": "Base finder",
+        "description": "Finds any base in your server, and shows them on your mini-map.",
+        "price": "0.00115",
+        "id": "basefinder"
+    },
+    {
+        "name": "Clone maker",
+        "description": "Generates clones that you can control, by clicking a button.",
+        "price": "0.00115",
+        "id": "clonemaker"
+    },
+    {
+        "name": "Server filler",
+        "description": "Fills your server, without extra tabs.",
+        "price": "0.00058",
+        "id": "serverfiller"
+    },
+    {
+        "name": "Server switcher",
+        "description": "Switches from your current server.",
+        "price": "0.00058",
+        "id": "serverswitcher"
+    },
+    {
+        "name": "Aimbot",
+        "description": "Makes you aim zombies automatically.",
+        "price": "0.00058",
+        "id": "aimbot"
+    },
+    {
+        "name": "All servers chat",
+        "description": "Sends a message on all non-full servers.",
+        "price": "0.00058",
+        "id": "allserverschat"
+    }
+]
